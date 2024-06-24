@@ -56,13 +56,13 @@ npm install
 To run the NEET Web Scraper, use the following command:
 
 ```sh
-npx ts-node src/neet_scraper.ts
+npx ts-node index.ts
 ```
 
 For batch processing, you can specify a range of application numbers:
 
 ```sh
-npx ts-node src/neet_scraper.ts
+npx ts-node index.ts
 ```
 
 ## Example
@@ -71,10 +71,10 @@ Here is an example of how to use the NEET Web Scraper:
 
 ```sh
 # Single request
-npx ts-node src/neet_scraper.ts
+npx ts-node index.ts
 
 # Batch request
-npx ts-node src/neet_scraper.ts
+npx ts-node index.ts
 ```
 
 ## Conclusion
