@@ -6,7 +6,6 @@ NEET Web Scraper is a powerful tool developed in TypeScript to automate the retr
 
 - **Automated Retrieval:** Automatically fetches NEET exam results using the application number and date of birth.
 - **Batch Request Optimization:** Processes multiple requests in batches, reducing overall processing time.
-- **User-Friendly:** Simple to use with no captchas or additional verification required.
 
 ## Performance
 
