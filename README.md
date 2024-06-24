@@ -22,7 +22,7 @@ By sending batch requests for a month's data, the scraper reduced the average ti
 
 ### Why Batch Requests?
 
-The primary challenge addressed by batch requests was the lack of a captcha or additional verification on the NEET result page (https://neet.ntaonline.in/frontend/web/scorecard/index). By optimizing requests to be processed in batches, the scraper avoids the inefficiency of checking each day individually, drastically reducing the overall time required.
+The primary challenge addressed by batch requests was the lack of a captcha or additional verification on the NEET result page. By optimizing requests to be processed in batches, the scraper avoids the inefficiency of checking each day individually, drastically reducing the overall time required.
 
 ## Implementation Details
 
